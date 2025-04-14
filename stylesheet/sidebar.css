@@ -1,0 +1,26 @@
+.navbar{
+    position: fixed;
+    background-color: rgb(255, 255, 255);
+    top: 60px;
+    left: 0;
+    bottom: 0;
+    width: 80px;
+}
+.container{
+    height: 80px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.container:hover{
+    background-color: lightgray;
+}
+.container img{
+    height: 30px;
+}
+.container div{
+    margin-top: 3px;
+    font-size: 10px;
+}
