@@ -3,6 +3,7 @@ body{
     margin: 0;
     padding-top: 70px;
     padding-left: 75px;
+    background-color: rgb(250, 250, 250);
 }
 a{
     color: black;

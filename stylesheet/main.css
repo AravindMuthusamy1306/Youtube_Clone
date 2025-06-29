@@ -1,5 +1,6 @@
 .video_grid{
     display: grid;
+    margin-top: none;
     grid-template-columns: 1fr 1fr 1fr;
     column-gap: 8px;
     row-gap: 50px;
